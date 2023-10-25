@@ -30,14 +30,14 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with rich experience in phenology, machine learning, and deep learning. test
 
 # 📖 Educations
-- **2021 - present: M.D.** <br>
-  Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China <br>
-  Major in Cartography and Geography Information System <br>
-  Supervisor: Dr. Jin Chen
-- **2017 - 2021: B.S.** <br>
-  School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China <br>
-  Major in Geographic Information Science <br>
-  (with honor, GPA rank: 1/61)
+- **2021 - present: M.D.**
+  - Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China
+  - Major in Cartography and Geography Information System
+  - Supervisor: Dr. Jin Chen
+- **2017 - 2021: B.S.**
+  - School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China
+  - Major in Geographic Information Science
+  - (with honor, GPA rank: 1/61)
   
 # 📝 Publications 
 
