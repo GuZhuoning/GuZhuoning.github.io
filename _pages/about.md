@@ -50,7 +50,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 Accepted by *Remote Sensing of Environment* on October 19, 2023
 
 - Synthesizing remote sensing images with high spatial and temporal resolution, especially for agricultural regions
-- **Background**: Images of key phenological periods play a vital role in agricultural applications as they capture the unique spectral characteristics of crops. Unfortunately, acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. Spatiotemporal fusion (STF) is an effective tool for the prediction of missing high spatial resolution images on the required date. However, most STF methods assume a uniform relationship between the reflectance on the base date and the predicted date for the same land-cover type, which fails to hold in agricultural scenarios because of the diverse phenological changes among different crop types or different growth processes, even within a single crop type.
+- **Background**: Acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. Therefore, we synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
 - **Methodology**: We developed an innovative algorithm, Agri-Fuse, that emphasizes change information. Using category-based regression with the constraint of the unmixing model, the phenological change relationship of each type of change was solved.
 </div>
 </div>
