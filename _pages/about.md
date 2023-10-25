@@ -17,13 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<h2 style="margin: 30px 0px 10px;">Short Bio</h2>
+I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Faculty of Geographical Sciences, Beijing Normal University</a> (top 3 subject ranking in China). Under the supervision of <a href='https://scholar.google.com/citations?user=nN9n9u8AAAAJ'>Prof. Jin Chen</a>, my previous research mainly focused on **agricultural remote sensing**, including data quality improvement for agricultural regions and crop mapping. I aim to integrate multi-source remote sensing data, to study the interactions between agriculture and food security, water conflicts, and global climate.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<h2 style="margin: 30px 0px 10px;">Prospective PhD Student</h2>
+**I am currently looking for a Ph.D. position starting in 2024 Fall**, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.
+
+<h2 style="margin: 30px 0px 10px;">My Strengths:</h2>
+- 🛰️**Rich experience in remote sensing**: Proficient in processing and analyzing satellite data, by programming (Python, Matlab), cloud computing platform (Google Earth Engine), and using professional software (ENVI, ArcGIS, SNAP).
+- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* ((a flagship journal of remote sensing with a 13.5 impact factor).
+- 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, ranging from physical geography (e.g., ecology, climatology, hydrology) to human geography (e.g., economic geography, urban geography, social and culture geography).
+- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with rich experience in phenology, machine learning, and deep learning. test
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
