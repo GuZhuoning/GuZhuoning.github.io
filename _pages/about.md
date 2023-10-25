@@ -41,7 +41,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE</div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes] <br>
