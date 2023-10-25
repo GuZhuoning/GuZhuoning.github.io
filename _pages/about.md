@@ -37,7 +37,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - **2017 - 2021: B.S.**
   - School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China
   - Major in Geographic Information Science
-  - (with honor, GPA rank: 1/61)
+  - with honor, GPA rank: 1/61
   
 # 📝 Publications 
 
@@ -49,7 +49,6 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 
 Accepted by *Remote Sensing of Environment* on October 19, 2023
 
-- Synthesizing remote sensing images with high spatial and temporal resolution, especially for agricultural regions
 - **Background**: Acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. Therefore, we synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
 - **Methodology**: We developed an innovative algorithm, Agri-Fuse, that emphasizes change information. Using category-based regression with the constraint of the unmixing model, the phenological change relationship of each type of change was solved.
 </div>
