@@ -22,6 +22,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 
 <h2 style="margin: 30px 0px 10px;">Prospective PhD Student</h2>
 **I am currently looking for a Ph.D. position starting in 2024 Fall**, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.
+<h2 style="margin: 30px 0px 10px;"></h2>
 
 # 🔥 My Strengths:
 - 🛰️**Rich experience in remote sensing**: Proficient in processing and analyzing satellite data, by programming (Python, Matlab), cloud computing platform (Google Earth Engine), and using professional software (ENVI, ArcGIS, SNAP).
