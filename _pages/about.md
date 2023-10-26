@@ -57,8 +57,8 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 **A Crop Classification Framework with Data Reconstruction and Feature Representation Using Sentinel-2 and Sentinel-1 Time Series** <br>
 Extracted representative features from reconstructed gap-free Sentinel-2 optical time series for better crop classification
 - **Background**: The high-dimensional characteristic of multispectral time series data requires large training samples, which limits the performance and transferability of the crop classification algorithm.
-- **Methodology**: Adapted a Two-dimensional Principal Component Analysis to reduce data dimensionality and improve data representativeness for better crop classification.
-- **Results**: Achieved an outstanding 90% overall accuracy in mapping major crops in both northern and southern China using the quality-refined data with a random forest classifier, ranking 2/600 teams in a national mapping contest.
+- **Methodology**: Adapted a Two-dimensional Principal Component Analysis to improve data representativeness for better crop classification.
+- **Results**: Achieved an outstanding 90% overall accuracy in mapping major crops in both northern and southern China with a random forest classifier, ranking 2/600 teams in a national mapping contest.
 </div>
 </div>
 
