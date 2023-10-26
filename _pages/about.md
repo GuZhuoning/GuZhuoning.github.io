@@ -52,16 +52,16 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - *2023* Teaching Assistant: *Introduction to Remote Sensing (3 credits)*, BNU.
 
 # 💬 Other professional experience
-- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. <span style="text-align: right;">*2023* </span>
-- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. <span style="text-align: right;">*2023* </span>
+- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. <div align="right">*2023*</div>
+- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. <div align="right">*2023* </div>
 
 # 🎖 Honors and Awards
-- Second-class scholarship (Top 5% granted by BNU) <span style="text-align: right;">*2022, 2023* </span>
-- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) <span style="text-align: right;">*2021, 2022* </span>
-- First-class scholarship (Top 1% granted by BNU) <span style="text-align: right;">*2021* </span>
-- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) <span style="text-align: right;">*2021* </span>
-- Top Ten Outstanding Graduates (Top 1% granted by SYSU) <span style="text-align: right;">*2021* </span>
-- First-class scholarship (Top 1% granted by SYSU) <span style="text-align: right;">*2019, 2020* </span>
-- National Scholarship (Top 1% granted by the Ministry of Education of China) <span style="text-align: right;">*2018* </span>
+- Second-class scholarship (Top 5% granted by BNU) <div align="right">*2022, 2023*</div>
+- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) <div align="right">*2021, 2022*</div>
+- First-class scholarship (Top 1% granted by BNU) <div align="right">*2021*</div>
+- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) <div align="right">*2021*</div>
+- Top Ten Outstanding Graduates (Top 1% granted by SYSU) <div align="right">*2021*</div>
+- First-class scholarship (Top 1% granted by SYSU) <div align="right">*2019, 2020*</div>
+- National Scholarship (Top 1% granted by the Ministry of Education of China) <div align="right">*2018*</div>
 
 
