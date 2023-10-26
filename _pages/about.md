@@ -25,10 +25,10 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 🔥 My Strengths:
-- 🛰️**Rich experience in remote sensing**: Proficient in processing and analyzing satellite data, by programming (Python, Matlab), cloud computing platform (Google Earth Engine), and using professional software (ENVI, ArcGIS, SNAP).
-- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (a flagship journal of remote sensing with a 13.5 impact factor).
-- 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, ranging from physical geography (e.g., ecology, climatology, hydrology) to human geography (e.g., economic geography, urban geography, social and culture geography).
-- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with rich experience in phenology, machine learning, and deep learning.
+- 🛰️**Rich experience in remote sensing**: Proficient in satellite data processing & analysis through Python, Matlab, Google Earth Engine, and professional software (ENVI, ArcGIS, SNAP).
+- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
+- 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, including physical geography (e.g., ecology, climatology) and human geography (e.g., economic geography, urban geography).
+- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
 
 # 📖 Educations
 - **2021 - present: M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China
@@ -37,14 +37,14 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
--  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
+-  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
-- **Background**: Acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. However, previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
-- **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information. Using category-based regression with the constraint of the unmixing model, the phenological change relationship of each type of change was solved.
+- **Background**: Previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
+- **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information for the first time.
 - **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%, demonstrating its significant potential in agricultural applications. 
 </div>
 </div>
