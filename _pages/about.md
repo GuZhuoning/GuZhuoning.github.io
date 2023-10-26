@@ -31,9 +31,9 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 📖 Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China <span style="text-align: right;">*2021 - present* </span>
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China <div align="right">*2021 - present*</div>
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China <span style="text-align: right;">*2017 - 2021* </span>
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China <div align="right">*2017 - 2021*</div>
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
