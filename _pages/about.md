@@ -41,7 +41,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 # 📑 Publications 
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
-<span class='anchor' id='Research-Experience'></span>
+<span class='anchor' id='research-experience></span>
 # 📝 Research Experience
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -65,14 +65,14 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 </div>
 </div>
 
-<span class='anchor' id='Other-Professional-Experience'></span>
+<span class='anchor' id='other-professional-experience'></span>
 # 📚 Other Professional Experience
 - **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
 - **Project Cooperation**, *National Rice Irrigation System Type Mapping Using Fine-Resolution Imagery and Deep Learning Modeling*, University of California, Berkeley, *2023*
 - **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
 - **Field Survey**, *National Crop Planting Survey*, BNU, *2022 - 2023*
 
-<span class='anchor' id='Skills'></span>
+<span class='anchor' id='skills'></span>
 # 🛠️ Skills
 - **Programming Language**: Python (Advanced), Matlab (Advanced), IDL (Intermediate), R (Intermediate)
 - **Professional software**: Google Earth Engine, ENVI, ArcGIS, SNAP, LESS, SPSS, EndNote
@@ -90,6 +90,6 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 #  💬 Know More About Me
 I am a sports enthusiast with a passion for basketball and tennis.
 I'm adventurous and tend to take the harder road.
-<img src='images/myself.png' alt="sym" width="100%">
+<div><img src='images/myself.png' alt="sym" width="100%"></div>
 
 
