@@ -51,14 +51,14 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 **A Crop Classification Framework with Data Reconstruction and Feature Representation Using Sentinel-2 and Sentinel-1 Time Series** <br>
-Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
-- **Background**: Previous data fusion methods fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
-- **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information for the first time.
-- **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%. 
+Extracted representative features from reconstructed gap-free Sentinel-2 optical time series for better crop classification
+- **Background**: The high-dimensional characteristic of multispectral time series data requires large training samples, which limits the performance and transferability of the crop classification algorithm.
+- **Methodology**: Adapted a Two-dimensional Principal Component Analysis to reduce data dimensionality and improve data representativeness for better crop classification.
+- **Results**: Achieved an outstanding 90% overall accuracy in mapping major crops in both northern and southern China using the quality-refined data with a random forest classifier, ranking 2/600 teams in a national mapping contest.
 </div>
 </div>
 
