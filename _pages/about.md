@@ -17,26 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h2 style="margin: 30px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 20px 0px 10px;">Short Bio</h2>
 I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Faculty of Geographical Sciences, Beijing Normal University</a> (top 3 subject ranking in China). Under the supervision of <a href='https://scholar.google.com/citations?user=nN9n9u8AAAAJ'>Prof. Jin Chen</a>, my previous research mainly focused on **agricultural remote sensing**, including data quality improvement for agricultural regions and crop mapping. I aim to integrate multi-source remote sensing data, to study the interactions between agriculture and food security, water conflicts, and global climate.
 
-<h2 style="margin: 30px 0px 10px;">Prospective PhD Student</h2>
+<h2 style="margin: 20px 0px 10px;">Prospective PhD Student</h2>
 **I am currently looking for a Ph.D. position starting in 2024 Fall**, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.
 
-<h2 style="margin: 30px 0px 10px;">My Strengths</h2>
+<h2 style="margin: 20px 0px 10px;">My Strengths</h2>
 - **Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
 - **Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
 - **Solid Geography background**: Explored various branches of geography with high GPAs, including physical geography (e.g., ecology, climatology) and human geography (e.g., economic geography, urban geography).
 - **Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
 <h2 style="margin: 30px 0px 10px;"></h2>
 
-# Educations
+# 📖 Educations
 - **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
 - **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
-# 📖 Publications 
+# 📑 Publications 
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
 # 📝 Research Experience
