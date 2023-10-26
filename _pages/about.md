@@ -84,7 +84,6 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 - First-class scholarship (Top 1% granted by SYSU, *2020*)
 - National Scholarship (Top 1% granted by the Ministry of Education of China, *2018*)
 
-<span class='anchor' id='know-more-about-me'></span>
 #  💬 Know More About Me
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/myself-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
