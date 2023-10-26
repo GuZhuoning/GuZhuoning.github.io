@@ -31,9 +31,9 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 📖 Educations
-- **2021 - present: M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China <span style="text-align: right;">*2021 - present* </span>
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **2017 - 2021: B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China <span style="text-align: right;">*2017 - 2021* </span>
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
@@ -49,16 +49,21 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2022, 2023* Second-class scholarship (Top 5% granted by BNU)
-- *2021, 2022* National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams)
-- *2021* First-class scholarship (Top 1% granted by BNU)
-- *2021* Outstanding Undergraduate Thesis (Top 1% granted by SYSU)
-- *2021* Top Ten Outstanding Graduates (Top 1% granted by SYSU)
-- *2019, 2020* First-class scholarship (Top 1% granted by SYSU)
-- *2018* National Scholarship (Top 1% granted by the Ministry of Education of China)
+# 📚 Research experience
+- *2023* Conference Presentation: *The 30th International Conference on Geoinformatics*, London, UK.
+- *2023* Teaching Assistant: *Introduction to Remote Sensing (3 credits)*, BNU.
 
 # 💬 Other professional experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. <span style="text-align: right;">*2023* </span>
+- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. <span style="text-align: right;">*2023* </span>
+
+# 🎖 Honors and Awards
+- Second-class scholarship (Top 5% granted by BNU) <span style="text-align: right;">*2022, 2023* </span>
+- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) <span style="text-align: right;">*2021, 2022* </span>
+- First-class scholarship (Top 1% granted by BNU) <span style="text-align: right;">*2021* </span>
+- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) <span style="text-align: right;">*2021* </span>
+- Top Ten Outstanding Graduates (Top 1% granted by SYSU) <span style="text-align: right;">*2021* </span>
+- First-class scholarship (Top 1% granted by SYSU) <span style="text-align: right;">*2019, 2020* </span>
+- National Scholarship (Top 1% granted by the Ministry of Education of China) <span style="text-align: right;">*2018* </span>
+
 
