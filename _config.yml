@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoning Gu"
   avatar           : "images/Gu_profile.jpg"
-  bio              : "guzhn1999 (at) gmail.com"
-  location         : "Beijing"
+  bio              : "guzhn1999@gmail.com"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/GuZhuoning"
   google_plus      :
   keybase          :
   instagram        :
