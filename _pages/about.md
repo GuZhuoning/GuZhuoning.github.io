@@ -65,20 +65,18 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 </div>
 </div>
 
-<span class='anchor' id='other-professional-experience'></span>
+<span class='anchor' id='other'></span>
 # 📚 Other Professional Experience
 - **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
 - **Project Cooperation**, *National Rice Irrigation System Type Mapping Using Fine-Resolution Imagery and Deep Learning Modeling*, University of California, Berkeley, *2023*
 - **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
 - **Field Survey**, *National Crop Planting Survey*, BNU, *2022 - 2023*
 
-<span class='anchor' id='skills'></span>
 # 🛠️ Skills
 - **Programming Language**: Python (Advanced), Matlab (Advanced), IDL (Intermediate), R (Intermediate)
 - **Professional software**: Google Earth Engine, ENVI, ArcGIS, SNAP, LESS, SPSS, EndNote
 - **Languages**: Fluent in Mandarin (Native) and English (TOFEL: 104)
 
-<span class='anchor' id='honors-and awards'></span>
 # 🎖 Honors and Awards
 - First-class scholarship (Top 1% granted by BNU, *2021*)
 - Outstanding Undergraduate Thesis (Top 1% granted by SYSU, *2021*)
