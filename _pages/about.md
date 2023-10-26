@@ -45,7 +45,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
 - **Background**: Previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
 - **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information for the first time.
-- **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%, demonstrating its significant potential in agricultural applications. 
+- **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%. 
 </div>
 </div>
 
