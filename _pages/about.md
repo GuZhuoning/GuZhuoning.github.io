@@ -26,19 +26,15 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 
 # 🔥 My Strengths:
 - 🛰️**Rich experience in remote sensing**: Proficient in processing and analyzing satellite data, by programming (Python, Matlab), cloud computing platform (Google Earth Engine), and using professional software (ENVI, ArcGIS, SNAP).
-- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* ((a flagship journal of remote sensing with a 13.5 impact factor).
+- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (a flagship journal of remote sensing with a 13.5 impact factor).
 - 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, ranging from physical geography (e.g., ecology, climatology, hydrology) to human geography (e.g., economic geography, urban geography, social and culture geography).
-- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with rich experience in phenology, machine learning, and deep learning. test
+- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with rich experience in phenology, machine learning, and deep learning.
 
 # 📖 Educations
-- **2021 - present: M.D.**
-  - Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China
-  - Major in Cartography and Geography Information System
-  - Supervisor: Dr. Jin Chen
-- **2017 - 2021: B.S.**
-  - School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China
-  - Major in Geographic Information Science
-  - with honor, GPA rank: 1/61
+- **2021 - present: M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China
+  - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
+- **2017 - 2021: B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China
+  - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
 
