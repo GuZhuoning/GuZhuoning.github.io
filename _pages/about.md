@@ -22,7 +22,6 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 
 <h2 style="margin: 20px 0px 10px;">Prospective PhD Student</h2>
 I am currently looking for a Ph.D. position starting in 2024 Fall, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.<br>
-[{{ site.resume_pdf.title }}]({{ site.resume_pdf.url }})
 
 <h2 style="margin: 20px 0px 10px;">My Strengths</h2>
 - **Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
