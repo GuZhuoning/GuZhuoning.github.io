@@ -24,22 +24,22 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 **I am currently looking for a Ph.D. position starting in 2024 Fall**, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.
 
 <h2 style="margin: 30px 0px 10px;">My Strengths</h2>
-- 🛰️**Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
-- 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
-- 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, including physical geography (e.g., ecology, climatology) and human geography (e.g., economic geography, urban geography).
-- 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
+- **Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
+- **Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
+- **Solid Geography background**: Explored various branches of geography with high GPAs, including physical geography (e.g., ecology, climatology) and human geography (e.g., economic geography, urban geography).
+- **Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
-# Publications 
+# 📖 Publications 
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
-# Research Experience
+# 📝 Research Experience
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
@@ -63,11 +63,11 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 </div>
 
 
-# Other Professional Experience
+# 📚 Other Professional Experience
 - **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
 - **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
 
-# Honors and Awards
+# 🎖 Honors and Awards
 - First-class scholarship (Top 1% granted by BNU, *2021*)
 - Outstanding Undergraduate Thesis (Top 1% granted by SYSU, *2021*)
 - Top Ten Outstanding Graduates (Top 1% granted by SYSU, *2021*)
