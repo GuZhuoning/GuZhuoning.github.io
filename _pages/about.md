@@ -87,6 +87,6 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 <span class='anchor' id='know-more-about-me'></span>
 #  💬 Know More About Me
 I am a sports enthusiast with a passion for basketball and tennis, an explorer with a preference for the harder road.
-<div><img src='images/myself.jpg' alt="sym" width="100%"></div>
+<div><img src='images/myself-512x512.png' alt="sym" width="100%"></div>
 
 
