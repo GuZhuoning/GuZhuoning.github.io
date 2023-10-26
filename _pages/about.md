@@ -31,9 +31,9 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 📖 Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China <div align="right">*2021 - present*</div>
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~$ *2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China <div align="right">*2017 - 2021*</div>
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~$ *2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
@@ -52,16 +52,16 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - *2023* Teaching Assistant: *Introduction to Remote Sensing (3 credits)*, BNU.
 
 # 💬 Other professional experience
-- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. <div align="right">*2023*</div>
-- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. <div align="right">*2023* </div>
+- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. $~~~~~~~~~~~~~~~~$ *2023*
+- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2023*
 
 # 🎖 Honors and Awards
-- Second-class scholarship (Top 5% granted by BNU) <div align="right">*2022, 2023*</div>
-- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) <div align="right">*2021, 2022*</div>
-- First-class scholarship (Top 1% granted by BNU) <div align="right">*2021*</div>
-- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) <div align="right">*2021*</div>
-- Top Ten Outstanding Graduates (Top 1% granted by SYSU) <div align="right">*2021*</div>
-- First-class scholarship (Top 1% granted by SYSU) <div align="right">*2019, 2020*</div>
-- National Scholarship (Top 1% granted by the Ministry of Education of China) <div align="right">*2018*</div>
+- Second-class scholarship (Top 5% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2022, 2023*
+- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021, 2022*
+- First-class scholarship (Top 1% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
+- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
+- Top Ten Outstanding Graduates (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
+- First-class scholarship (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2019, 2020*
+- National Scholarship (Top 1% granted by the Ministry of Education of China)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2018*
 
 
