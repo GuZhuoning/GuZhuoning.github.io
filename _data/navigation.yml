@@ -10,13 +10,16 @@ main:
     url: "/#-publications"
     
   - title: "Research Experience"
-    url: "/#-Research Experience"
+    url: "/#-Research-Experience"
 
   - title: "Other Professional Experience"
-    url: "/#-Other Professional Experience"
+    url: "/#-Other-Professional-Experience"
+
+  - title: "Skills"
+    url: "/#-Skills"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Know Me more"
-    url: "/#-Know Me more"
+  - title: "Know More About Me"
+    url: "/#-Know-More-About-Me"
