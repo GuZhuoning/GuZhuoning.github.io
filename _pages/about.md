@@ -21,8 +21,8 @@ redirect_from:
 I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Faculty of Geographical Sciences, Beijing Normal University</a> (top 3 subject ranking in China). Under the supervision of <a href='https://scholar.google.com/citations?user=nN9n9u8AAAAJ'>Prof. Jin Chen</a>, my previous research mainly focused on **agricultural remote sensing**, including data quality improvement for agricultural regions and crop mapping. I aim to integrate multi-source remote sensing data, to study the interactions between agriculture and food security, water conflicts, and global climate.
 
 <h2 style="margin: 20px 0px 10px;">Prospective PhD Student</h2>
-I am currently looking for a Ph.D. position starting in 2024 Fall, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.
-
+I am currently looking for a Ph.D. position starting in 2024 Fall, related to remote sensing, agriculture, food security, global climate, ecosystems, earth systems, plants, and forests.<br>
+<a href="docs/CV_Zhuoning Gu_BeijingNormalUniversity.pdf" target="_blank">[CURRICULUM VITAE]</a>
 <h2 style="margin: 20px 0px 10px;">My Strengths</h2>
 - **Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
 - **Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
