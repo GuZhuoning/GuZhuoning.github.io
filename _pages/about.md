@@ -31,9 +31,9 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # Publications 
@@ -56,7 +56,7 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 
 **A Crop Classification Framework with Data Reconstruction and Feature Representation Using Sentinel-2 and Sentinel-1 Time Series** <br>
 Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
-- **Background**: Previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
+- **Background**: Previous data fusion methods fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
 - **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information for the first time.
 - **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%. 
 </div>
@@ -64,16 +64,14 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 
 
 # Other Professional Experience
-- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2023*
-- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2023*
+- **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
+- **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
 
 # Honors and Awards
-- Second-class scholarship (Top 5% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2022, 2023*
-- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021, 2022*
-- First-class scholarship (Top 1% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
-- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
-- Top Ten Outstanding Graduates (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
-- First-class scholarship (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2019, 2020*
-- National Scholarship (Top 1% granted by the Ministry of Education of China)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2018*
+- First-class scholarship (Top 1% granted by BNU, *2021*)
+- Outstanding Undergraduate Thesis (Top 1% granted by SYSU, *2021*)
+- Top Ten Outstanding Graduates (Top 1% granted by SYSU, *2021*)
+- First-class scholarship (Top 1% granted by SYSU, *2020*)
+- National Scholarship (Top 1% granted by the Ministry of Education of China, *2018*) 
 
 
