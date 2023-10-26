@@ -30,16 +30,16 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
 <h2 style="margin: 30px 0px 10px;"></h2>
 
-# 📖 Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~$ *2021 - present*
+# Educations
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~$ *2017 - 2021*
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
-# 📝 Publications 
+# Publications 
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
-# 📚 Research experience
+# Research Experience
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
@@ -63,17 +63,17 @@ Synthesized remote sensing images with high spatial and temporal resolution, esp
 </div>
 
 
-# 💬 Other professional experience
-- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. $~~~~~~~~~~~~~~~~$ *2023*
-- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2023*
+# Other Professional Experience
+- **Conference Presentation**: *The 30th International Conference on Geoinformatics*, London, UK. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2023*
+- **Teaching Assistant**: *Introduction to Remote Sensing (3 credits)*, BNU. $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2023*
 
-# 🎖 Honors and Awards
-- Second-class scholarship (Top 5% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2022, 2023*
-- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021, 2022*
-- First-class scholarship (Top 1% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
-- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
-- Top Ten Outstanding Graduates (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2021*
-- First-class scholarship (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2019, 2020*
-- National Scholarship (Top 1% granted by the Ministry of Education of China)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *2018*
+# Honors and Awards
+- Second-class scholarship (Top 5% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2022, 2023*
+- National Second Prize in the “MAP-Cup” Agriculture Competition (2/600 teams) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021, 2022*
+- First-class scholarship (Top 1% granted by BNU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
+- Outstanding Undergraduate Thesis (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
+- Top Ten Outstanding Graduates (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021*
+- First-class scholarship (Top 1% granted by SYSU) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2019, 2020*
+- National Scholarship (Top 1% granted by the Ministry of Education of China)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2018*
 
 
