@@ -30,15 +30,18 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 - **Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
 <h2 style="margin: 30px 0px 10px;"></h2>
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
 - **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
-  
+
+<span class='anchor' id='publications'></span>
 # 📑 Publications 
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
+<span class='anchor' id='Research-Experience'></span>
 # 📝 Research Experience
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -62,17 +65,20 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 </div>
 </div>
 
+<span class='anchor' id='Other-Professional-Experience'></span>
 # 📚 Other Professional Experience
 - **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
 - **Project Cooperation**, *National Rice Irrigation System Type Mapping Using Fine-Resolution Imagery and Deep Learning Modeling*, University of California, Berkeley, *2023*
 - **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
 - **Field Survey**, *National Crop Planting Survey*, BNU, *2022 - 2023*
 
+<span class='anchor' id='Skills'></span>
 # 🛠️ Skills
 - **Programming Language**: Python (Advanced), Matlab (Advanced), IDL (Intermediate), R (Intermediate)
 - **Professional software**: Google Earth Engine, ENVI, ArcGIS, SNAP, LESS, SPSS, EndNote
 - **Languages**: Fluent in Mandarin (Native) and English (TOFEL: 104)
 
+<span class='anchor' id='honors-and awards'></span>
 # 🎖 Honors and Awards
 - First-class scholarship (Top 1% granted by BNU, *2021*)
 - Outstanding Undergraduate Thesis (Top 1% granted by SYSU, *2021*)
@@ -80,6 +86,7 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 - First-class scholarship (Top 1% granted by SYSU, *2020*)
 - National Scholarship (Top 1% granted by the Ministry of Education of China, *2018*)
 
+<span class='anchor' id='know-more-about-me'></span>
 #  💬 Know More About Me
 I am a sports enthusiast with a passion for basketball and tennis.
 I'm adventurous and tend to take the harder road.
