@@ -31,9 +31,9 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 📖 Educations
-- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
+- **M.D.** Faculty of Geographical Sciences, Beijing Normal University (BNU), Beijing, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2021 - present*
   - Major in Cartography and Geography Information System $~~~~~$ Supervisor: Dr. Jin Chen
-- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
+- **B.S.** School of Geography and Planning, Sun Yat-Sen University (SYSU), Guangzhou, China $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*2017 - 2021*
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📑 Publications 
@@ -62,16 +62,27 @@ Extracted representative features from reconstructed gap-free Sentinel-2 optical
 </div>
 </div>
 
-
 # 📚 Other Professional Experience
 - **Conference Presentation**, *The 30th International Conference on Geoinformatics*, London, UK, *2023*
+- **Project Cooperation**, *National Rice Irrigation System Type Mapping Using Fine-Resolution Imagery and Deep Learning Modeling*, University of California, Berkeley, *2023*
 - **Teaching Assistant**, *Introduction to Remote Sensing* (3 credits), BNU, *2023*
+- **Field Survey**, *National Crop Planting Survey*, BNU, *2022 - 2023*
+
+# 🛠️ Skills
+- **Programming Language**: Python (Advanced), Matlab (Advanced), IDL (Intermediate), R (Intermediate)
+- **Professional software**: Google Earth Engine, ENVI, ArcGIS, SNAP, LESS, SPSS, EndNote
+- **Languages**: Fluent in Mandarin (Native) and English (TOFEL: 104)
 
 # 🎖 Honors and Awards
 - First-class scholarship (Top 1% granted by BNU, *2021*)
 - Outstanding Undergraduate Thesis (Top 1% granted by SYSU, *2021*)
 - Top Ten Outstanding Graduates (Top 1% granted by SYSU, *2021*)
 - First-class scholarship (Top 1% granted by SYSU, *2020*)
-- National Scholarship (Top 1% granted by the Ministry of Education of China, *2018*) 
+- National Scholarship (Top 1% granted by the Ministry of Education of China, *2018*)
+
+#  💬 Know More About Me
+I am a sports enthusiast with a passion for basketball and tennis.
+I'm adventurous and tend to take the harder road.
+<img src='images/myself.png' alt="sym" width="100%">
 
 
