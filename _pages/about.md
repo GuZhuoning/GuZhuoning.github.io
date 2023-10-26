@@ -40,10 +40,11 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 -  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
   - Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
-
+<div class='paper-box-text' markdown="1"> 
   - **Background**: Previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
   - **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information for the first time.
   - **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%. 
+</div>
 </div>
 
 # 📚 Research experience
