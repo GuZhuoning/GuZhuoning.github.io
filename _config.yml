@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhuoning Gu" <a href="GuZhuoning.github.io/docs/CV_Zhuoning Gu_BeijingNormalUniversity.pdf" target="_blank">[CURRICULUM VITAE]</a>
+title                    : "Zhuoning Gu"
 description              : "Major in the Geographical Sciences🌏"
 repository               : "GuZhuoning/GuZhuoning.github.io"
 google_scholar_stats_use_cdn : false
