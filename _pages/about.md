@@ -25,7 +25,7 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
 <h2 style="margin: 30px 0px 10px;"></h2>
 
 # 🔥 My Strengths:
-- 🛰️**Rich experience in remote sensing**: Proficient in satellite data processing & analysis through Python, Matlab, Google Earth Engine, and professional software (ENVI, ArcGIS, SNAP).
+- 🛰️**Rich experience in remote sensing**: Proficient in satellite data processing & analysis through programming and professional software.
 - 📑**Scientific research training**: Completed one first-author paper, accepted by *Remote Sensing of Environment* (SCI, IF=13.5).
 - 🌏**Solid Geography background**: Explored various branches of geography with high GPAs, including physical geography (e.g., ecology, climatology) and human geography (e.g., economic geography, urban geography).
 - 🚀**Active and fast learner**: Constantly stepping out of my comfort zone with broad experience in phenology, deep learning, etc.
