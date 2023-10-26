@@ -37,21 +37,17 @@ I am now a master's student in the <a href='http://english.geo.bnu.edu.cn/'>Facu
   - Major in Geographic Information Science $~~~~~$ GPA: 4.0/4.0 (Rank 1/61)
   
 # 📝 Publications 
+-  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes] <br>
-**Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., & Chen. X <br>
-
-Accepted by *Remote Sensing of Environment* on October 19, 2023
-
-- **Background**: Acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. Therefore, we synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
-- **Methodology**: We developed an innovative algorithm, Agri-Fuse, that emphasizes change information. Using category-based regression with the constraint of the unmixing model, the phenological change relationship of each type of change was solved.
+- Synthesized remote sensing images with high spatial and temporal resolution, especially for agricultural regions with diverse phenological changes.
+- **Background**: Acquiring high-spatial-resolution images of the key phenological period from a single satellite platform remains challenging due to its short duration and synchronization with the rainy season. However, previous data fusion methods that synthesize high-quality remote sensing data fail to reconstruct high-spatial-resolution images of key phenological periods in agricultural scenarios.
+- **Methodology**: An innovative algorithm, Agri-Fuse, was developed to highlight phenological change information. Using category-based regression with the constraint of the unmixing model, the phenological change relationship of each type of change was solved.
+- **Results**: Outperformed three benchmarks and one state-of-the-art algorithm, and improved the overall accuracy of crop classification from 88% to 92%, demonstrating its significant potential in agricultural applications. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2022, 2023* Second-class scholarship (Top 5% granted by BNU)
