@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#Google Analytics
+google_analytics: G-GQPFG9CFV8  # your google analytics
+
 # Site Settings
 title                    : "Zhuoning Gu"
 description              : "Major in the Geographical Sciences🌏"
