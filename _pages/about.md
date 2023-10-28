@@ -40,7 +40,7 @@ I am currently looking for a Ph.D. position starting in 2024 Fall, related to re
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications 
--  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, accepted.
+-  **Gu, Z.**, Chen, J., Chen, Y., Qiu, Y., Zhu, X., &amp; Chen. X. (2023). "Agri-Fuse: A novel spatiotemporal fusion method designed for agricultural scenarios with diverse phenological changes". ***Remote Sensing of Environment***, 299, 113874. doi:<a href="https://doi.org/10.1016/j.rse.2023.113874">[[CURRICULUM VITAE]](https://doi.org/10.1016/j.rse.2023.113874)</a>
 
 <span class='anchor' id='research-experience'></span>
 # 📝 Research Experience
